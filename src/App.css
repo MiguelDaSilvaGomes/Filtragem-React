@@ -1,0 +1,23 @@
+.botao{
+  padding: 10px;
+  margin: 0 15px;    
+}
+.dark-theme{
+   background-color: rgb(9, 6, 15);
+}
+
+.h1{
+   color: white;
+   border-collapse: collapse;
+   border: 1px solid white;
+}
+.App{
+   margin: auto;
+   display: flex;
+   align-items: center;
+   height: 100vh; 
+}
+
+.label{
+   color: #eee;
+}
